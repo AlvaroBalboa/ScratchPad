@@ -14,7 +14,8 @@ package com.theironyard.novauc;
  countYZ("day fyyyz") → 2
 
  * */
-public class CountYZ {
+public class CountYZ{
+
     public int countYZ(String str) {
         int ysAndzs = 0;
         String[] wordsNon = str.split("\\W");

@@ -13,7 +13,6 @@ package com.theironyard.novauc;
  * */
 public class CountTriple {
 
-
     public int countTriples(String string){
         int numberOfTriples=0;
         String firstOccurance;
